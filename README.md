@@ -23,6 +23,8 @@ This was going to be my attempt at creating a No Man's Sky-esque planet/terrain 
 
 ## Screenshots:
 
+LOD System Video: LOD.mp4 in this repo.
+
 Flat Color Map Generation
 ![Map Generation](/Screenshot_Map.PNG)
 
