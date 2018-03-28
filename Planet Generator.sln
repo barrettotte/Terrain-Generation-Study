@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planet Generator", "Planet Generator.csproj", "{14C2CE82-0F75-C2A8-9F5F-ED27F8E070EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planet Generator.Editor", "Planet Generator.Editor.csproj", "{592B7990-18D3-CFB5-6384-8850909835F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C2CE82-0F75-C2A8-9F5F-ED27F8E070EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C2CE82-0F75-C2A8-9F5F-ED27F8E070EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C2CE82-0F75-C2A8-9F5F-ED27F8E070EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C2CE82-0F75-C2A8-9F5F-ED27F8E070EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{592B7990-18D3-CFB5-6384-8850909835F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592B7990-18D3-CFB5-6384-8850909835F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592B7990-18D3-CFB5-6384-8850909835F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592B7990-18D3-CFB5-6384-8850909835F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

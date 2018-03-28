@@ -1,0 +1,48 @@
+
+
+
+<b>V0.01 - Planet Generation Basics</b>
+
+[x] 01. LibNoise port and integration for noise generation.
+[x] 02. Octahedron sphere generation for planet.
+[x] 03. Color mapping based on noise map values.
+[x] 04. Chunk generation based off of noise map.
+[x] 05. Texture and noise chunks based on world map.
+[x] 06. Terrain Chunk object using texture and noise chunks.
+[ ] 07. Fix seams between Terrain Chunks.
+[x] 08. Terrain chunk wrapping
+[x] 09. Terrain Chunk LOD system
+[x] 10. Threading for world map generation.
+[ ] 11. 
+[ ] 12. 
+[ ] 13. Coordinate translation for Transform, UV, Spherical
+[ ] 14. Select landing point for planet 
+[ ] 15. Land at correct point on planet
+[ ] 16. Planet rotation
+[ ] 17. Allow player to rotate around planet to select landing point.
+[ ] 18. 
+[ ] 19. 
+[ ] 20. Planetary stats
+[ ] 21. Seed system
+[ ] 22.
+[ ] 23. Longitude/Latitude coordinates UI
+[ ] 24. Cache last 3 planets visited
+[ ] 25. Moon generation
+[ ] 26. Astrophysics implementation
+[ ] 27. Planetary orbit
+[ ] 28. 
+[ ] 29. 
+[ ] 30. Star system generation
+[ ] 31. Procedural naming system
+[ ] 32. Planet orbital paths
+	
+<i>[Started: 08-20-2017 --- Finished: ##-##-####]</i>
+
+
+
+
+
+
+TO DO:
+
+[] ##. 
